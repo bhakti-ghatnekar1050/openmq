@@ -31,7 +31,6 @@ import edu.uci.ics.crawler4j.util.Util;
  * @author Yasser Ganjisaffar
  */
 public class Parser {
-
     private static final Logger logger = LoggerFactory.getLogger(Parser.class);
 
     private final CrawlConfig config;
