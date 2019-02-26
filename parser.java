@@ -32,7 +32,6 @@ public class Parser {
     private final CrawlConfig config;
     
     private final CrawlConfig config1;
-
     private final HtmlParser htmlContentParser;
 
     private Net net;
