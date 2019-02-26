@@ -19,7 +19,6 @@ import java.util.Set;
 import edu.uci.ics.crawler4j.url.WebURL;
 
 public class TextParseData implements ParseData {
-
     private String textContent;
     private Set<WebURL> outgoingUrls = new HashSet<>();
     private int count = 0;
