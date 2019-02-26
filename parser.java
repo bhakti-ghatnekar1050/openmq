@@ -24,7 +24,6 @@ import edu.uci.ics.crawler4j.crawler.exceptions.ParseException;
 import edu.uci.ics.crawler4j.url.TLDList;
 import edu.uci.ics.crawler4j.util.Net;
 import edu.uci.ics.crawler4j.util.Util;
-
 /**
  * @author Yasser Ganjisaffar
  */
