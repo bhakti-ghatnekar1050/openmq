@@ -15,7 +15,6 @@
  * limitations under the License.
  */
 package edu.uci.ics.crawler4j.parser;
-
 import java.util.HashSet;
 import java.util.Set;
 
