@@ -43,7 +43,6 @@ public class TextParseData implements ParseData {
     public void setOutgoingUrls(Set<WebURL> outgoingUrls) {
         this.outgoingUrls = outgoingUrls;
     }
-
     @Override
     public String toString() {
         return textContent;
