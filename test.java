@@ -22,7 +22,6 @@ public class TextParseData implements ParseData {
     private String textContent;
     private Set<WebURL> outgoingUrls = new HashSet<>();
     private int count = 0;
-
     public String getTextContent() {
         return textContent;
     }
