@@ -14,7 +14,7 @@
                     "JAVA"
                 ],
                 "sources": {
-                    "baseDir": "",
+                    "baseDir": "/opt/gamma/data/tenants/d923ccd1886de3a0a776b5b42d0c6f2d/checkouts/1c55f619732b2e6d1ba29a43725f70a5",
                     "exclusions": [
                         "(?i)(test|generated|mock|thirdparty|third-party|3rd-party|3rdparty|external)"
                     ]
